@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">WebViewYoutube</string>
+
+    <string name="css_content"
+        translatable="false">
+        body {
+            background-color: #000000;
+            margin: 0;
+            padding: 0;
+        }
+    </string>
+    <string name="css_content_positioning" translatable="false">
+        .responsive > * {
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            border: 0;
+            box-sizing: border-box;
+        }
+        .responsive {
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 0;
+            position: relative;
+            padding-bottom: 53%;
+            box-sizing: border-box;
+        }
+    </string>
+
+    <string name="html_content"
+        translatable="false">
+        <![CDATA[
+            <html>
+            <head>
+                <style>]]>
+                    %1$s
+                <![CDATA[</style>
+            </head>
+            <body>]]>
+                %2$s
+            <![CDATA[</body>
+        </html>]]>
+    </string>
+
+    <string name="html_embedded_content"
+        translatable="false">
+        <![CDATA[<div class=\"responsive\">
+            <iframe
+                src=\"]]>%1$s<![CDATA[\"
+                frameborder=\"0\"
+                allow=\"accelerometer; autoplay; encrypted-media; gyroscope; fullscreen\"/>
+        </div>]]>
+    </string>
+</resources>
