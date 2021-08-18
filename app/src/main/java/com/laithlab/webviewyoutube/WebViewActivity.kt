@@ -1,10 +1,17 @@
 package com.laithlab.webviewyoutube
 
+import android.annotation.SuppressLint
+import android.graphics.Bitmap
+import android.graphics.Color
 import android.os.Bundle
+import android.webkit.WebChromeClient
+import android.webkit.WebView
 import kotlinx.android.synthetic.main.activity_webview.*
+import kotlinx.android.synthetic.main.activity_webview.view.content
 
 class WebViewActivity : ThemeActivity() {
 
+    @SuppressLint("SetJavaScriptEnabled")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_webview)
@@ -23,6 +30,8 @@ class WebViewActivity : ThemeActivity() {
         content.apply {
             settings.javaScriptEnabled = true
 
+            content.fixPhilologyWebChromeClientCrash()
+
             loadDataWithBaseURL(
                 "https://google.com",
                 html,
@@ -30,6 +39,18 @@ class WebViewActivity : ThemeActivity() {
                 "UTF-8",
                 ""
             )
+        }
+    }
+
+    private fun WebView.fixPhilologyWebChromeClientCrash() {
+        webChromeClient = object : WebChromeClient() {
+            private val crashFixBitmap: Bitmap by lazy {
+                Bitmap.createBitmap(1, 1, Bitmap.Config.ARGB_8888).apply {
+                    setPixel(0, 0, Color.BLACK)
+                }
+            }
+
+            override fun getDefaultVideoPoster(): Bitmap = crashFixBitmap
         }
     }
 }

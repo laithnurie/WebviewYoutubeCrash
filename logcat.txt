@@ -1,0 +1,298 @@
+2021-08-18 12:08:02.687 31988-31988/? I/.webviewyoutub: Not late-enabling -Xcheck:jni (already on)
+2021-08-18 12:08:02.720 31988-31988/? I/.webviewyoutub: Unquickening 12 vdex files!
+2021-08-18 12:08:02.997 31988-31988/com.laithlab.webviewyoutube D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2021-08-18 12:08:02.997 31988-31988/com.laithlab.webviewyoutube D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2021-08-18 12:08:03.016 31988-32021/com.laithlab.webviewyoutube D/libEGL: loaded /vendor/lib64/egl/libEGL_emulation.so
+2021-08-18 12:08:03.017 31988-32021/com.laithlab.webviewyoutube D/libEGL: loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2021-08-18 12:08:03.017 31988-32021/com.laithlab.webviewyoutube D/libEGL: loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2021-08-18 12:08:03.066 31988-31988/com.laithlab.webviewyoutube E/.webviewyoutub: Invalid ID 0x00000000.
+2021-08-18 12:08:03.099 31988-31988/com.laithlab.webviewyoutube W/.webviewyoutub: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+2021-08-18 12:08:03.101 31988-31988/com.laithlab.webviewyoutube W/.webviewyoutub: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+2021-08-18 12:08:03.157 31988-31988/com.laithlab.webviewyoutube I/WebViewFactory: Loading com.google.android.webview version 92.0.4515.131 (code 451513134)
+2021-08-18 12:08:03.250 31988-31988/com.laithlab.webviewyoutube W/.webviewyoutub: Accessing hidden method Landroid/os/Trace;->isTagEnabled(J)Z (greylist, reflection, allowed)
+2021-08-18 12:08:03.250 31988-31988/com.laithlab.webviewyoutube W/.webviewyoutub: Accessing hidden method Landroid/os/Trace;->traceBegin(JLjava/lang/String;)V (greylist, reflection, allowed)
+2021-08-18 12:08:03.250 31988-31988/com.laithlab.webviewyoutube W/.webviewyoutub: Accessing hidden method Landroid/os/Trace;->traceEnd(J)V (greylist, reflection, allowed)
+2021-08-18 12:08:03.250 31988-31988/com.laithlab.webviewyoutube W/.webviewyoutub: Accessing hidden method Landroid/os/Trace;->asyncTraceBegin(JLjava/lang/String;I)V (greylist, reflection, allowed)
+2021-08-18 12:08:03.250 31988-31988/com.laithlab.webviewyoutube W/.webviewyoutub: Accessing hidden method Landroid/os/Trace;->asyncTraceEnd(JLjava/lang/String;I)V (greylist, reflection, allowed)
+2021-08-18 12:08:03.252 31988-31988/com.laithlab.webviewyoutube I/cr_WVCFactoryProvider: Loaded version=92.0.4515.131 minSdkVersion=29 isBundle=true multiprocess=true packageId=2
+2021-08-18 12:08:03.285 31988-31988/com.laithlab.webviewyoutube I/cr_LibraryLoader: Successfully loaded native library
+2021-08-18 12:08:03.286 31988-31988/com.laithlab.webviewyoutube I/cr_CachingUmaRecorder: Flushed 8 samples from 8 histograms.
+2021-08-18 12:08:03.379 31988-31988/com.laithlab.webviewyoutube I/TetheringManager: registerTetheringEventCallback:com.laithlab.webviewyoutube
+2021-08-18 12:08:03.399 31988-32049/com.laithlab.webviewyoutube W/chromium: [WARNING:dns_config_service_android.cc(153)] Failed to read DnsConfig.
+2021-08-18 12:08:03.463 31988-32053/com.laithlab.webviewyoutube W/.webviewyoutub: Accessing hidden method Landroid/media/AudioManager;->getOutputLatency(I)I (greylist, reflection, allowed)
+2021-08-18 12:08:03.470 31988-32053/com.laithlab.webviewyoutube W/cr_media: Requires BLUETOOTH permission
+2021-08-18 12:08:03.500 31988-32064/com.laithlab.webviewyoutube D/HostConnection: HostConnection::get() New Host Connection established 0xb4000077af014350, tid 32064
+2021-08-18 12:08:03.506 31988-32064/com.laithlab.webviewyoutube D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_async_frame_commands ANDROID_EMU_gles_max_version_3_0
+2021-08-18 12:08:03.510 31988-32064/com.laithlab.webviewyoutube D/EGL_emulation: eglCreateContext: 0xb40000779f063cd0: maj 3 min 0 rcv 3
+2021-08-18 12:08:03.510 31988-32064/com.laithlab.webviewyoutube D/EGL_emulation: eglMakeCurrent: 0xb40000779f063cd0: ver 3 0 (tinfo 0xb40000773f06f0f0) (first time)
+2021-08-18 12:08:03.535 31988-32064/com.laithlab.webviewyoutube D/EGL_emulation: eglCreateContext: 0xb40000779f063cd0: maj 3 min 0 rcv 3
+2021-08-18 12:08:03.570 31988-32019/com.laithlab.webviewyoutube D/HostConnection: HostConnection::get() New Host Connection established 0xb4000077af0150d0, tid 32019
+2021-08-18 12:08:03.573 31988-32019/com.laithlab.webviewyoutube D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_async_frame_commands ANDROID_EMU_gles_max_version_3_0
+2021-08-18 12:08:03.574 31988-32019/com.laithlab.webviewyoutube W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2021-08-18 12:08:03.575 31988-32019/com.laithlab.webviewyoutube D/EGL_emulation: eglCreateContext: 0xb40000779f040390: maj 3 min 0 rcv 3
+2021-08-18 12:08:03.576 31988-32019/com.laithlab.webviewyoutube D/EGL_emulation: eglMakeCurrent: 0xb40000779f040390: ver 3 0 (tinfo 0xb40000773f070500) (first time)
+2021-08-18 12:08:03.596 31988-32019/com.laithlab.webviewyoutube I/Gralloc4: mapper 4.x is not supported
+2021-08-18 12:08:03.600 31988-32019/com.laithlab.webviewyoutube D/HostConnection: createUnique: call
+2021-08-18 12:08:03.600 31988-32019/com.laithlab.webviewyoutube D/HostConnection: HostConnection::get() New Host Connection established 0xb4000077af015010, tid 32019
+2021-08-18 12:08:03.600 31988-32019/com.laithlab.webviewyoutube D/goldfish-address-space: allocate: Ask for block of size 0x100
+2021-08-18 12:08:03.601 31988-32019/com.laithlab.webviewyoutube D/goldfish-address-space: allocate: ioctl allocate returned offset 0x1c3ff8000 size 0x8000
+2021-08-18 12:08:03.606 31988-32019/com.laithlab.webviewyoutube D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_async_frame_commands ANDROID_EMU_gles_max_version_3_0
+2021-08-18 12:08:03.660 31988-32064/com.laithlab.webviewyoutube D/EGL_emulation: eglCreateContext: 0xb40000779f08f540: maj 3 min 0 rcv 3
+2021-08-18 12:08:03.730 31988-32049/com.laithlab.webviewyoutube W/chromium: [WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
+2021-08-18 12:08:04.314 31988-31988/com.laithlab.webviewyoutube E/chromium: [ERROR:web_contents_delegate.cc(225)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+2021-08-18 12:08:04.314 31988-31988/com.laithlab.webviewyoutube E/chromium: [ERROR:web_contents_delegate.cc(225)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+2021-08-18 12:08:04.318 31988-32053/com.laithlab.webviewyoutube W/cr_media: Requires MODIFY_AUDIO_SETTINGS and RECORD_AUDIO. No audio device will be available for recording
+2021-08-18 12:08:04.337 31988-32066/com.laithlab.webviewyoutube I/CameraManagerGlobal: Connecting to camera service
+2021-08-18 12:08:04.352 31988-32066/com.laithlab.webviewyoutube E/cr_VideoCapture: getCameraCharacteristics:
+    java.lang.IllegalArgumentException: supportsCameraApi:2340: Unknown camera ID 0
+        at android.hardware.camera2.CameraManager.throwAsPublicException(CameraManager.java:1001)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:449)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4)
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+        at org.chromium.media.VideoCaptureFactory.getDeviceName(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+     Caused by: android.os.ServiceSpecificException: supportsCameraApi:2340: Unknown camera ID 0 (code 3)
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2387)
+        at android.os.Parcel.createException(Parcel.java:2357)
+        at android.os.Parcel.readException(Parcel.java:2340)
+        at android.os.Parcel.readException(Parcel.java:2282)
+        at android.hardware.ICameraService$Stub$Proxy.supportsCameraApi(ICameraService.java:906)
+        at android.hardware.camera2.CameraManager.supportsCameraApiLocked(CameraManager.java:1054)
+        at android.hardware.camera2.CameraManager.supportsCamera2ApiLocked(CameraManager.java:1030)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:422)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4) 
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+        at org.chromium.media.VideoCaptureFactory.getDeviceName(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+2021-08-18 12:08:04.354 31988-32066/com.laithlab.webviewyoutube E/cr_VideoCapture: getCameraCharacteristics:
+    java.lang.IllegalArgumentException: supportsCameraApi:2340: Unknown camera ID 0
+        at android.hardware.camera2.CameraManager.throwAsPublicException(CameraManager.java:1001)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:449)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4)
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+        at org.chromium.media.VideoCaptureFactory.getDeviceId(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+     Caused by: android.os.ServiceSpecificException: supportsCameraApi:2340: Unknown camera ID 0 (code 3)
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2387)
+        at android.os.Parcel.createException(Parcel.java:2357)
+        at android.os.Parcel.readException(Parcel.java:2340)
+        at android.os.Parcel.readException(Parcel.java:2282)
+        at android.hardware.ICameraService$Stub$Proxy.supportsCameraApi(ICameraService.java:906)
+        at android.hardware.camera2.CameraManager.supportsCameraApiLocked(CameraManager.java:1054)
+        at android.hardware.camera2.CameraManager.supportsCamera2ApiLocked(CameraManager.java:1030)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:422)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4) 
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+        at org.chromium.media.VideoCaptureFactory.getDeviceId(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+2021-08-18 12:08:04.354 31988-32066/com.laithlab.webviewyoutube E/cr_VideoCapture: getCameraCharacteristics:
+    java.lang.IllegalArgumentException: supportsCameraApi:2340: Unknown camera ID 0
+        at android.hardware.camera2.CameraManager.throwAsPublicException(CameraManager.java:1001)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:449)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4)
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+        at org.chromium.media.VideoCaptureFactory.getCaptureApiType(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+     Caused by: android.os.ServiceSpecificException: supportsCameraApi:2340: Unknown camera ID 0 (code 3)
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2387)
+        at android.os.Parcel.createException(Parcel.java:2357)
+        at android.os.Parcel.readException(Parcel.java:2340)
+        at android.os.Parcel.readException(Parcel.java:2282)
+        at android.hardware.ICameraService$Stub$Proxy.supportsCameraApi(ICameraService.java:906)
+        at android.hardware.camera2.CameraManager.supportsCameraApiLocked(CameraManager.java:1054)
+        at android.hardware.camera2.CameraManager.supportsCamera2ApiLocked(CameraManager.java:1030)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:422)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4) 
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+        at org.chromium.media.VideoCaptureFactory.getCaptureApiType(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+2021-08-18 12:08:04.356 31988-32066/com.laithlab.webviewyoutube E/cr_VideoCapture: getCameraCharacteristics:
+    java.lang.IllegalArgumentException: supportsCameraApi:2340: Unknown camera ID 0
+        at android.hardware.camera2.CameraManager.throwAsPublicException(CameraManager.java:1001)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:449)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4)
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+        at org.chromium.media.VideoCaptureFactory.getFacingMode(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+     Caused by: android.os.ServiceSpecificException: supportsCameraApi:2340: Unknown camera ID 0 (code 3)
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2387)
+        at android.os.Parcel.createException(Parcel.java:2357)
+        at android.os.Parcel.readException(Parcel.java:2340)
+        at android.os.Parcel.readException(Parcel.java:2282)
+        at android.hardware.ICameraService$Stub$Proxy.supportsCameraApi(ICameraService.java:906)
+        at android.hardware.camera2.CameraManager.supportsCameraApiLocked(CameraManager.java:1054)
+        at android.hardware.camera2.CameraManager.supportsCamera2ApiLocked(CameraManager.java:1030)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:422)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4) 
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+        at org.chromium.media.VideoCaptureFactory.getFacingMode(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+2021-08-18 12:08:04.357 31988-32066/com.laithlab.webviewyoutube E/cr_VideoCapture: getCameraCharacteristics:
+    java.lang.IllegalArgumentException: supportsCameraApi:2340: Unknown camera ID 0
+        at android.hardware.camera2.CameraManager.throwAsPublicException(CameraManager.java:1001)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:449)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4)
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+        at org.chromium.media.VideoCaptureFactory.isZoomSupported(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+     Caused by: android.os.ServiceSpecificException: supportsCameraApi:2340: Unknown camera ID 0 (code 3)
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2387)
+        at android.os.Parcel.createException(Parcel.java:2357)
+        at android.os.Parcel.readException(Parcel.java:2340)
+        at android.os.Parcel.readException(Parcel.java:2282)
+        at android.hardware.ICameraService$Stub$Proxy.supportsCameraApi(ICameraService.java:906)
+        at android.hardware.camera2.CameraManager.supportsCameraApiLocked(CameraManager.java:1054)
+        at android.hardware.camera2.CameraManager.supportsCamera2ApiLocked(CameraManager.java:1030)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:422)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4) 
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+        at org.chromium.media.VideoCaptureFactory.isZoomSupported(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+2021-08-18 12:08:04.358 31988-32066/com.laithlab.webviewyoutube E/cr_VideoCapture: getCameraCharacteristics:
+    java.lang.IllegalArgumentException: supportsCameraApi:2340: Unknown camera ID 0
+        at android.hardware.camera2.CameraManager.throwAsPublicException(CameraManager.java:1001)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:449)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4)
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+        at org.chromium.media.VideoCaptureFactory.getDeviceSupportedFormats(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1)
+     Caused by: android.os.ServiceSpecificException: supportsCameraApi:2340: Unknown camera ID 0 (code 3)
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2387)
+        at android.os.Parcel.createException(Parcel.java:2357)
+        at android.os.Parcel.readException(Parcel.java:2340)
+        at android.os.Parcel.readException(Parcel.java:2282)
+        at android.hardware.ICameraService$Stub$Proxy.supportsCameraApi(ICameraService.java:906)
+        at android.hardware.camera2.CameraManager.supportsCameraApiLocked(CameraManager.java:1054)
+        at android.hardware.camera2.CameraManager.supportsCamera2ApiLocked(CameraManager.java:1030)
+        at android.hardware.camera2.CameraManager.getCameraCharacteristics(CameraManager.java:422)
+        at is0.i(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:4) 
+        at org.chromium.media.VideoCaptureFactory.isLegacyOrDeprecatedDevice(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+        at org.chromium.media.VideoCaptureFactory.getDeviceSupportedFormats(chromium-TrichromeWebViewGoogle6432.aab-stable-451513134:1) 
+2021-08-18 12:08:26.396 31988-32064/com.laithlab.webviewyoutube D/EGL_emulation: eglCreateContext: 0xb40000779f065e80: maj 3 min 0 rcv 3
+2021-08-18 12:08:26.416 31988-32064/com.laithlab.webviewyoutube D/EGL_emulation: eglCreateContext: 0xb40000779f040a70: maj 3 min 0 rcv 3
+2021-08-18 12:08:26.459 31988-32065/com.laithlab.webviewyoutube W/cr_MediaCodecUtil: HW encoder for video/avc is not available on this device.
+2021-08-18 12:08:26.685 31988-32053/com.laithlab.webviewyoutube I/AAudio: AAudioStreamBuilder_openStream() called ----------------------------------------
+2021-08-18 12:08:26.685 31988-32053/com.laithlab.webviewyoutube I/AudioStreamBuilder: rate   =  48000, channels  = 2, format   = 5, sharing = SH, dir = OUTPUT
+2021-08-18 12:08:26.685 31988-32053/com.laithlab.webviewyoutube I/AudioStreamBuilder: device =      0, sessionId = -1, perfMode = 11, callback: ON with frames = 2048
+2021-08-18 12:08:26.685 31988-32053/com.laithlab.webviewyoutube I/AudioStreamBuilder: usage  =      1, contentType = 0, inputPreset = 0, allowedCapturePolicy = 0
+2021-08-18 12:08:26.685 31988-32053/com.laithlab.webviewyoutube I/AudioStreamBuilder: privacy sensitive = false
+2021-08-18 12:08:26.685 31988-32053/com.laithlab.webviewyoutube D/AudioStreamBuilder: build() MMAP not used because AAUDIO_PERFORMANCE_MODE_LOW_LATENCY not requested.
+2021-08-18 12:08:26.685 31988-32053/com.laithlab.webviewyoutube D/.webviewyoutub: PlayerBase::PlayerBase()
+2021-08-18 12:08:26.685 31988-32053/com.laithlab.webviewyoutube D/AudioStreamTrack: open(), request notificationFrames = 2048, frameCount = 0
+2021-08-18 12:08:26.693 31988-32053/com.laithlab.webviewyoutube D/AAudioStream: setState(s#1) from 0 to 2
+2021-08-18 12:08:26.693 31988-32053/com.laithlab.webviewyoutube W/AudioStreamTrack: open() flags changed from 0x00000008 to 0x00000000
+2021-08-18 12:08:26.693 31988-32053/com.laithlab.webviewyoutube W/AudioStreamTrack: open() perfMode changed from 11 to 10
+2021-08-18 12:08:26.695 31988-32050/com.laithlab.webviewyoutube I/cr_MediaCodecBridge: create MediaCodec video decoder, mime video/x-vnd.on2.vp9
+2021-08-18 12:08:26.695 31988-32053/com.laithlab.webviewyoutube I/AAudio: AAudioStreamBuilder_openStream() returns 0 = AAUDIO_OK for s#1 ----------------
+2021-08-18 12:08:26.699 31988-32053/com.laithlab.webviewyoutube D/AAudio: AAudioStream_requestStart(s#1) called --------------
+2021-08-18 12:08:26.699 31988-32053/com.laithlab.webviewyoutube D/AAudioStream: setState(s#1) from 2 to 3
+2021-08-18 12:08:26.700 31988-32053/com.laithlab.webviewyoutube D/.webviewyoutub: PlayerBase::start() from IPlayer
+2021-08-18 12:08:26.700 31988-32053/com.laithlab.webviewyoutube D/AAudio: AAudioStream_requestStart(s#1) returned 0 ---------
+2021-08-18 12:08:26.702 31988-32008/com.laithlab.webviewyoutube D/AudioStreamLegacy: onAudioDeviceUpdate() devId 2 => 2
+2021-08-18 12:08:26.705 31988-32315/com.laithlab.webviewyoutube D/CCodec: allocate(c2.android.vp9.decoder)
+2021-08-18 12:08:26.706 31988-32311/com.laithlab.webviewyoutube D/AAudioStream: setState(s#1) from 3 to 4
+2021-08-18 12:08:26.719 31988-32315/com.laithlab.webviewyoutube I/Codec2Client: Available Codec2 services: "software"
+2021-08-18 12:08:26.801 31988-32315/com.laithlab.webviewyoutube I/CCodec: Created component [c2.android.vp9.decoder]
+2021-08-18 12:08:26.802 31988-32315/com.laithlab.webviewyoutube D/CCodecConfig: read media type: video/x-vnd.on2.vp9
+2021-08-18 12:08:26.804 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+2021-08-18 12:08:26.804 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+2021-08-18 12:08:26.804 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+2021-08-18 12:08:26.804 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+2021-08-18 12:08:26.804 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+2021-08-18 12:08:26.804 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+2021-08-18 12:08:26.804 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+2021-08-18 12:08:26.804 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: ignored struct field coded.color-format.locations
+2021-08-18 12:08:26.805 31988-32315/com.laithlab.webviewyoutube D/CCodecConfig: ignoring local param raw.size (0xd2001800) as it is already supported
+2021-08-18 12:08:26.805 31988-32315/com.laithlab.webviewyoutube D/ReflectedParamUpdater: ignored struct field raw.hdr-static-info.mastering
+2021-08-18 12:08:26.806 31988-32315/com.laithlab.webviewyoutube I/CCodecConfig: query failed after returning 11 values (BAD_INDEX)
+2021-08-18 12:08:26.806 31988-32315/com.laithlab.webviewyoutube D/CCodecConfig: c2 config diff is Dict {
+      c2::u32 coded.pl.level = 28680
+      c2::u32 coded.pl.profile = 28672
+      c2::u32 default.color.matrix = 0
+      c2::u32 default.color.primaries = 0
+      c2::u32 default.color.range = 0
+      c2::u32 default.color.transfer = 0
+      c2::u32 input.buffers.max-size.value = 2097152
+      c2::u32 input.delay.value = 0
+      Buffer input.hdr10-plus-info.value = {
+      }
+      string input.media-type.value = "video/x-vnd.on2.vp9"
+      Buffer output.hdr10-plus-info.value = {
+      }
+      string output.media-type.value = "video/raw"
+      c2::u32 raw.color.matrix = 0
+      c2::u32 raw.color.primaries = 0
+      c2::u32 raw.color.range = 0
+      c2::u32 raw.color.transfer = 0
+      c2::u32 raw.max-size.height = 240
+      c2::u32 raw.max-size.width = 320
+      c2::u32 raw.pixel-format.value = 35
+      c2::i32 raw.rotation.flip = 0
+      c2::i32 raw.rotation.value = 0
+      c2::u32 raw.sar.height = 1
+      c2::u32 raw.sar.width = 1
+      c2::u32 raw.size.height = 240
+      c2::u32 raw.size.width = 320
+      c2::u32 raw.surface-scaling.value = 1
+    }
+2021-08-18 12:08:26.806 31988-32315/com.laithlab.webviewyoutube W/ColorUtils: expected specified color aspects (0:0:0:0)
+2021-08-18 12:08:26.814 31988-32313/com.laithlab.webviewyoutube I/MediaCodec: MediaCodec will operate in async mode
+2021-08-18 12:08:26.818 31988-32313/com.laithlab.webviewyoutube D/SurfaceUtils: connecting to surface 0xb40000789f030330, reason connectToSurface
+2021-08-18 12:08:26.818 31988-32313/com.laithlab.webviewyoutube I/MediaCodec: [c2.android.vp9.decoder] setting surface generation to 32755713
+2021-08-18 12:08:26.818 31988-32313/com.laithlab.webviewyoutube D/SurfaceUtils: disconnecting from surface 0xb40000789f030330, reason connectToSurface(reconnect)
+2021-08-18 12:08:26.818 31988-32313/com.laithlab.webviewyoutube D/SurfaceUtils: connecting to surface 0xb40000789f030330, reason connectToSurface(reconnect)
+2021-08-18 12:08:26.818 31988-32315/com.laithlab.webviewyoutube D/CCodec: [c2.android.vp9.decoder] buffers are bound to CCodec for this session
+2021-08-18 12:08:26.818 31988-32315/com.laithlab.webviewyoutube D/CCodecConfig: no c2 equivalents for native-window
+2021-08-18 12:08:26.818 31988-32315/com.laithlab.webviewyoutube D/CCodecConfig: no c2 equivalents for flags
+2021-08-18 12:08:26.819 31988-32315/com.laithlab.webviewyoutube D/CCodecConfig: config failed => CORRUPTED
+2021-08-18 12:08:26.819 31988-32315/com.laithlab.webviewyoutube D/CCodecConfig: c2 config diff is   c2::u32 raw.max-size.height = 360
+      c2::u32 raw.max-size.width = 640
+      c2::u32 raw.size.height = 360
+      c2::u32 raw.size.width = 640
+2021-08-18 12:08:26.819 31988-32315/com.laithlab.webviewyoutube W/Codec2Client: query -- param skipped: index = 1107298332.
+2021-08-18 12:08:26.819 31988-32315/com.laithlab.webviewyoutube D/CCodec: client requested max input size 86400, which is smaller than what component recommended (2097152); overriding with component recommendation.
+2021-08-18 12:08:26.819 31988-32315/com.laithlab.webviewyoutube W/CCodec: This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+2021-08-18 12:08:26.819 31988-32315/com.laithlab.webviewyoutube D/CCodec: setup formats input: AMessage(what = 0x00000000) = {
+      int32_t height = 360
+      int32_t level = 256
+      int32_t max-input-size = 2097152
+      string mime = "video/x-vnd.on2.vp9"
+      int32_t profile = 1
+      int32_t width = 640
+      Rect crop(0, 0, 639, 359)
+    } and output: AMessage(what = 0x00000000) = {
+      int32_t android._color-format = 2135033992
+      int32_t android._video-scaling = 1
+      Rect crop(0, 0, 639, 359)
+      int32_t color-standard = 4
+      int32_t color-range = 2
+      int32_t color-transfer = 3
+      Buffer hdr10-plus-info = {
+      }
+      int32_t height = 360
+      int32_t max-height = 360
+      int32_t max-width = 640
+      string mime = "video/raw"
+      int32_t rotation-degrees = 0
+      int32_t sar-height = 1
+      int32_t sar-width = 1
+      int32_t width = 640
+      int32_t android._dataspace = 259
+      int32_t color-format = 2130708361
+    }
+2021-08-18 12:08:26.821 31988-32315/com.laithlab.webviewyoutube W/Codec2Client: query -- param skipped: index = 1342179345.
+2021-08-18 12:08:26.821 31988-32315/com.laithlab.webviewyoutube W/Codec2Client: query -- param skipped: index = 2415921170.
+2021-08-18 12:08:26.821 31988-32315/com.laithlab.webviewyoutube E/FMQ: grantorIdx must be less than 3
+2021-08-18 12:08:26.821 31988-32315/com.laithlab.webviewyoutube E/FMQ: grantorIdx must be less than 3
+2021-08-18 12:08:26.821 31988-32315/com.laithlab.webviewyoutube D/CCodecBufferChannel: [c2.android.vp9.decoder#797] Created input block pool with allocatorID 16 => poolID 17 - OK (0)
+2021-08-18 12:08:26.822 31988-32315/com.laithlab.webviewyoutube D/CCodecBufferChannel: [c2.android.vp9.decoder#797] Query output surface allocator returned 0 params => BAD_INDEX (6)
+2021-08-18 12:08:26.822 31988-32315/com.laithlab.webviewyoutube I/CCodecBufferChannel: [c2.android.vp9.decoder#797] Created output block pool with allocatorID 18 => poolID 67 - OK
+2021-08-18 12:08:26.822 31988-32315/com.laithlab.webviewyoutube D/CCodecBufferChannel: [c2.android.vp9.decoder#797] Configured output block pool ids 67 => OK
+2021-08-18 12:08:26.822 31988-32315/com.laithlab.webviewyoutube D/Codec2-OutputBufferQueue: remote graphic buffer migration 0/0
+2021-08-18 12:08:26.822 31988-32315/com.laithlab.webviewyoutube D/Codec2Client: generation remote change 32755713
+2021-08-18 12:08:26.823 31988-32315/com.laithlab.webviewyoutube W/Gralloc4: allocator 3.x is not supported
+2021-08-18 12:08:26.828 31988-32315/com.laithlab.webviewyoutube E/ion: ioctl c0044901 failed with code -1: Inappropriate ioctl for device
+2021-08-18 12:08:26.863 31988-32313/com.laithlab.webviewyoutube E/FMQ: grantorIdx must be less than 3
+2021-08-18 12:08:26.884 31988-32315/com.laithlab.webviewyoutube D/CCodecConfig: c2 config diff is   c2::u32 raw.crop.height = 360
+      c2::u32 raw.crop.left = 0
+      c2::u32 raw.crop.top = 0
+      c2::u32 raw.crop.width = 640
+2021-08-18 12:08:26.897 31988-32064/com.laithlab.webviewyoutube D/NdkImageReader: acquireImageLocked: Overriding buffer format YUV_420_888 to 0x32315659.
+2021-08-18 12:08:26.931 31988-31988/com.laithlab.webviewyoutube W/AudioManager: Use of stream types is deprecated for operations other than volume control
+2021-08-18 12:08:26.931 31988-31988/com.laithlab.webviewyoutube W/AudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+2021-08-18 12:08:27.281 31988-32064/com.laithlab.webviewyoutube E/EGL_emulation: tid 32064: eglCreateSyncKHR(2212): error 0x3004 (EGL_BAD_ATTRIBUTE)
+2021-08-18 12:08:27.283 31988-32064/com.laithlab.webviewyoutube E/chromium: [ERROR:android_image_reader_utils.cc(19)] Failed to create android native fence sync object.
+2021-08-18 12:08:27.294 31988-32064/com.laithlab.webviewyoutube E/EGL_emulation: tid 32064: eglCreateSyncKHR(2212): error 0x3004 (EGL_BAD_ATTRIBUTE)
+2021-08-18 12:08:27.294 31988-32064/com.laithlab.webviewyoutube E/chromium: [ERROR:android_image_reader_utils.cc(19)] Failed to create android native fence sync object.
+2021-08-18 12:08:31.828 31988-32321/com.laithlab.webviewyoutube D/BufferPoolAccessor2.0: bufferpool2 0xb4000077ff03b1b8 : 7(14680064 size) total buffers - 0(0 size) used buffers - 13/20 (recycle/alloc) - 7/40 (fetch/transfer)
+2021-08-18 12:08:31.828 31988-32321/com.laithlab.webviewyoutube D/BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+2021-08-18 12:08:33.458 31988-32311/com.laithlab.webviewyoutube A/libc: Fatal signal 6 (SIGABRT), code -6 (SI_TKILL) in tid 32311 (AudioTrack), pid 31988 (.webviewyoutube)
